@@ -1,0 +1,6 @@
+# Server-specific ignores (root .gitignore also applies)
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
