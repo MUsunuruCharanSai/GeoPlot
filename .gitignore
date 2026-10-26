@@ -59,6 +59,9 @@ ehthumbs.db
 .eslintcache
 .stylelintcache
 
+# Vercel
+.vercel/
+
 # Misc
 *.pem
 *.key
